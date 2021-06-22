@@ -5,9 +5,8 @@ h2{
   font-family: "Times New Roman";
   display: inline;
 }
-
-.beach {
-  width: 700px;
+.beach, .bbeach {
+  width: 50%;
   transform-style: preserve-3d;
   margin: 5px;
   display: inline;
@@ -15,13 +14,11 @@ h2{
 }
 
 .restaurant{
-  width: 50%;
+  width: 5px;
   transform-style: preserve-3d;
   margin: 5px;
-  display: inline;
-  float: right;
 }
 
 p{
-  color: blue;
+  color: pink;
 }
