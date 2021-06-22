@@ -7,7 +7,6 @@ h2{
 }
 
 .beach {
-  width: 25%;
   transform-style: preserve-3d;
   margin: 5px;
   display: inline;
@@ -20,4 +19,8 @@ h2{
   margin: 5px;
   display: inline;
   float: right;
+}
+
+p{
+  color: blue;
 }
