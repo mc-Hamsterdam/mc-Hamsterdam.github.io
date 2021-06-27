@@ -29,8 +29,9 @@ button {
 
 img {
  border-radius: 10px;
- height: 210px;
- width: 320px;
+ height: 25%;
+ width: 30%;
+ font-align: center;
 }
 
 .label {
